@@ -18,7 +18,7 @@ Frontend Developer focused on building clean, responsive, and user-friendly web 
 - Exploring real-world project patterns
 
 ## 📫 Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/aman-pathak01/]
+- **LinkedIn:** https://www.linkedin.com/in/aman-pathak01/
 - **GitHub:** https://github.com/Aman0039
 
 ---
