@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aman Pathak 👋<br><br>About Me<br><br>Full Stack Developer (MERN) | Tech Enthusiast<br>Building responsive and scalable web apps with a focus on clean code, performance, and great user experience. <br>Always learning, always building.<br><br>🚀 Tech Stack<br> **Frontend:**  React.js, JavaScript (ES6+), Tailwind CSS<br>**Backend:**  Express.js , Node.js<br>**Database:**  MongoDB<br>**Tools:**  Git, GitHub, Vite, VS Code, Postman<br><br>💼 Projects<br><br>**Educational Institute Website** – React, TailwindCSS  <br>Features Added – Form validation & Google Sheets integration <br> <br>**Portfolio Website** – React + TailwindCSS, Motion & Modern UI with responsive design.
+Hi, I'm Aman Pathak 👋<br><br>Full Stack Developer (MERN) | Tech Enthusiast<br>Building responsive and scalable web apps with a focus on clean code, performance, and great user experience. <br>Always learning, always building.<br><br>🚀 Tech Stack<br> **Frontend:**  React.js, JavaScript (ES6+), Tailwind CSS<br>**Backend:**  Express.js , Node.js<br>**Database:**  MongoDB<br>**Tools:**  Git, GitHub, Vite, VS Code, Postman<br><br>💼 Projects<br><br>**Educational Institute Website** – React, TailwindCSS  <br>Features Added – Form validation & Google Sheets integration <br> <br>**Portfolio Website** – React + TailwindCSS, Motion & Modern UI with responsive design.
 
 
 ## 🌐 Socials:
