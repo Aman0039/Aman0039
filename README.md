@@ -54,33 +54,24 @@
 - **Deployment:** Hosted on Render  
 
 ---
-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman0039&theme=tokyonight&hide_border=true&show_icons=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aman0039&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aman0039&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=Aman0039&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman0039&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aman0039&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🔝 Contribution Graph  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman0039&theme=algolia&no-frame=true&margin-w=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman0039&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 🔝 Top Contributions  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aman0039&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
 
 ## ✍️ Dev Quote  
 <p align="center">
