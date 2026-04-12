@@ -21,17 +21,17 @@
 
 ### 🧠 Languages & Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,jwt" />
 </p>
 
 ### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,vite" />
 </p>
 
 ---
