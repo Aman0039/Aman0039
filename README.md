@@ -26,12 +26,12 @@
 
 ### ⚙️ Backend & Database  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,jsonwentoken" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
 </p>
 
 ### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,npm,vscode,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,postman,npm,vscode,vite" />
 </p>
 
 ---
