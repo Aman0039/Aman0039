@@ -21,7 +21,7 @@
 
 ### 🧠 Languages & Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database  
@@ -31,7 +31,7 @@
 
 ### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,aws,postman,npm,vscode,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,npm,vscode,vite" />
 </p>
 
 ---
